@@ -1,8 +1,11 @@
-A game about another planet.
+An editor.
 
-![Bogus](http://i.imgur.com/mAO62Ql.png)
+![https://github.com/patrickjm/janus-editor/blob/master/janus.gif?raw=true]
+
+For a game about another planet:
+
+![(Someday)](http://i.imgur.com/mAO62Ql.png)
 
 # Copyright
-*This is proprietary software.*
 © 2014 Patrick Moriarty and Ryan Goodman.
 All rights reserved.
