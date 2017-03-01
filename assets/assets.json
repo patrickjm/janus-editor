@@ -1,0 +1,56 @@
+{
+	"textures" : [
+		{ 
+			"name" : "llama", 
+			"path" : "img/llama.png" 
+		},
+		{
+			"name" : "highlands",
+			"path" : "img/highlands.png"
+		},
+		{ 
+			"name" : "gui_col1", 
+			"path" : "img/gui_col1.png" 
+		},
+		{ 
+			"name" : "gui_col2", 
+			"path" : "img/gui_col2.png" 
+		}
+	],
+
+	"tilesets" : [
+		{
+			"name" : "editor_gui1",
+			"texture" : "gui_col1",
+			"tileWidth" : 16,
+			"tileHeight" : 16
+		},
+		{
+			"name" : "editor_gui2",
+			"texture" : "gui_col2",
+			"tileWidth" : 16,
+			"tileHeight" : 16
+		},
+		{
+			"name" : "highlands",
+			"texture" : "highlands",
+			"tileWidth" : 16,
+			"tileHeight" : 16
+		}
+	],
+
+	"fonts" : [
+		{ 
+			"name" : "editor_gui", 
+			"path" : "font/kenvector_future_thin.TTF" 
+		}
+	],
+
+	"shaders" : [
+		{
+			"name" : "level_poly",
+			"path" : "shad/poly.frag",
+			"type" : "fragment"
+		}
+	]
+}

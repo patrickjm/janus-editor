@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="source\editor\actionargs.d">
+    <Files>
+      <File FileName="source\editor\editor.d" Line="1" Column="1" />
+      <File FileName="source\editor\editorobject.d" Line="1" Column="1" />
+      <File FileName="source\editor\polygonbuilder.d" Line="1" Column="1" />
+      <File FileName="source\editor\gui\draggable.d" Line="1" Column="1" />
+      <File FileName="source\editor\actionargs.d" Line="22" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,32 @@
+{
+	"name": "janus",
+	"description": "Janus",
+	"homepage": "http://twitter.com/pataroose",
+	"copyright": "Copyright © 2014, Patrick Moriarty and Ryan Goodman",
+	"lflags" : ["+lib\\"],
+	"mainSourceFile": "janus.d",
+	"targetType": "executable",
+	"authors": [
+		"Patrick Moriarty",
+		"Ryan Goodman"
+	],
+	"versions" : [
+		"Editor",
+		"DSFML_Quiet_Destructors"
+	],
+	"dependencies": {
+		"dsfml": "~master",
+		"ctini": ">=0.1.1",
+	},
+	"subPackages" : [
+		{
+			"name": "assets",
+			"targetType": "none",
+			"sourcePaths": ["assets"],
+			"importPaths": []
+		}
+	],
+	"stringImportPaths" : [
+		"assets"
+	]
+}
